@@ -30,6 +30,6 @@ I'm interested in having an [internship](https://en.wikipedia.org/wiki/Internshi
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zefr0x&theme=dark&border_radius=25&date_format=j%2Fn[%2FY]&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 [![Top used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zefr0x&show_icons=true&theme=dark&border_radius=25&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![CodeWars Badge](https://www.codewars.com/users/zer0-x/badges/large)](https://www.codewars.com/users/zer0-x)
+[![CodeWars Badge](https://www.codewars.com/users/zefr0x/badges/large)](https://www.codewars.com/users/zefr0x)
 
 </div>
