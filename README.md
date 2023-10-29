@@ -4,7 +4,9 @@
 
 </div>
 
-Interested in [Systems Programming](https://en.wikipedia.org/wiki/Systems_programming), mainly working with [![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=E33B26)](https://rust-lang.org/) and [![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFD43B)](https://www.python.org/) to build high quality [System Utilities](https://en.wikipedia.org/wiki/Utility_software) and [Desktop](https://en.wikipedia.org/wiki/Desktop_environment) [Applications](https://en.wikipedia.org/wiki/Application_software).
+Interested in [Systems Programming](https://en.wikipedia.org/wiki/Systems_programming), mainly working with [![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=E33B26)](https://rust-lang.org/) or [![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFD43B)](https://www.python.org/) and building high quality [System Utilities](https://en.wikipedia.org/wiki/Utility_software) and [Desktop](https://en.wikipedia.org/wiki/Desktop_environment) [Applications](https://en.wikipedia.org/wiki/Application_software).
+
+I'm interested in having an [internship](https://en.wikipedia.org/wiki/Internship).
 
 <div align="center">
 
@@ -17,8 +19,6 @@ Interested in [Systems Programming](https://en.wikipedia.org/wiki/Systems_progra
 You can also take a look at my other git repositories:
 
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/zefr0x) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zefr0x) [![AUR](https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages?SeB=M&K=zefr0x)
-
-I'm interested in having an [internship](https://en.wikipedia.org/wiki/Internship).
 
 </div>
 
