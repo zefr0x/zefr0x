@@ -4,9 +4,9 @@
 
 </div>
 
-Interested in [Systems Programming](https://en.wikipedia.org/wiki/Systems_programming), mainly working with [![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=E33B26)](https://rust-lang.org/) or [![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFD43B)](https://www.python.org/) to build high quality [System Utilities](https://en.wikipedia.org/wiki/Utility_software) and [Desktop](https://en.wikipedia.org/wiki/Desktop_environment) [Applications](https://en.wikipedia.org/wiki/Application_software).
+Interested in [**Systems Programming**](https://en.wikipedia.org/wiki/Systems_programming) and [**Digital Security**](https://en.wikipedia.org/wiki/Computer_security). Currently pursuing a **Bachelor of Science** degree with a major in **Cyber Security and Digital Forensics**.
 
-I'm interested in having an [internship](https://en.wikipedia.org/wiki/Internship).
+I'm interested in having an [**internship**](https://en.wikipedia.org/wiki/Internship).
 
 <div align="center">
 
