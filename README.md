@@ -18,7 +18,7 @@ I'm interested in having an [**internship**](https://en.wikipedia.org/wiki/Inter
 
 Connect with me:
 
-[![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@zer0-x:kde.org) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zefr0x/)
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@zer0-x:kde.org)
 
 You can also take a look at my other repositories:
 
