@@ -6,7 +6,7 @@
 
 Interested in [**Systems Programming**](https://en.wikipedia.org/wiki/Systems_programming) and [**Digital Security**](https://en.wikipedia.org/wiki/Computer_security). Currently pursuing a **Bachelor of Science** degree with a major in **Cyber Security and Digital Forensics**.
 
-I'm interested in having an [**internship**](https://en.wikipedia.org/wiki/Internship).
+Seeking [**internships**](https://en.wikipedia.org/wiki/Internship) or [**part-time positions**](https://en.wikipedia.org/wiki/Part-time_contract).
 
 <div align="center">
 
