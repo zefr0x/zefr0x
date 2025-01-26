@@ -1,9 +1,3 @@
-<div align="right">
-
-[![Profile views counter](https://visitcount.itsvg.in/api?id=zefr0x&label=Profile%20Views&color=5&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
 Interested in [**Systems Programming**](https://en.wikipedia.org/wiki/Systems_programming) and [**Digital Security**](https://en.wikipedia.org/wiki/Computer_security). Currently pursuing a **Bachelor of Science** degree with a major in **Cyber Security and Digital Forensics**.
 
 Seeking [**internships**](https://en.wikipedia.org/wiki/Internship) or [**part-time positions**](https://en.wikipedia.org/wiki/Part-time_contract).
@@ -29,7 +23,7 @@ You can also take a look at my other repositories:
 <div align="center">
 
 [![zefr0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=zefr0x&rank_icon=percentile&show_icons=true&theme=dark&border_radius=25&custom_title=GitHub%20Status&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zefr0x&theme=dark&border_radius=25&date_format=j%2Fn[%2FY]&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zefr0x&theme=dark&border_radius=25&date_format=j%2Fn[%2FY]&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 [![Top used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zefr0x&show_icons=true&theme=dark&border_radius=25&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![CodeWars Badge](https://www.codewars.com/users/zefr0x/badges/large)](https://www.codewars.com/users/zefr0x)
