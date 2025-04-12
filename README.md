@@ -14,7 +14,7 @@ Connect with me:
 
 [![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@zer0-x:kde.org)
 
-You can also take a look at my other repositories:
+Take a look at my other work:
 
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/zefr0x) [![GNOME Gitlab](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)](https://gitlab.gnome.org/zefr0x) [![freedesktop.org Gitlab](https://img.shields.io/badge/FDO-3B80AE?style=for-the-badge&logo=freedesktopdotorg&logoColor=white)](https://gitlab.freedesktop.org/zefr0x) [![AUR](https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages?SeB=M&K=zefr0x)
 
