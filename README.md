@@ -16,7 +16,8 @@ Connect with me:
 
 Take a look at my other work:
 
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/zefr0x) [![GNOME Gitlab](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)](https://gitlab.gnome.org/zefr0x) [![freedesktop.org Gitlab](https://img.shields.io/badge/FDO-3B80AE?style=for-the-badge&logo=freedesktopdotorg&logoColor=white)](https://gitlab.freedesktop.org/zefr0x) [![AUR](https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages?SeB=M&K=zefr0x)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/zefr0x) [![GNOME Gitlab](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)](https://gitlab.gnome.org/zefr0x) [![freedesktop.org Gitlab](https://img.shields.io/badge/FDO-3B80AE?style=for-the-badge&logo=freedesktopdotorg&logoColor=white)](https://gitlab.freedesktop.org/zefr0x) [![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://gitlab.archlinux.org/zefr0x/) [![AUR](https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages?SeB=M&K=zefr0x)
+
 
  <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zefr0x) -->
 
